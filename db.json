@@ -1,0 +1,76 @@
+{
+  "rooms": [
+    {
+      "id": "R01",
+      "country": "India",
+      "area": "Ernakulam",
+      "roomtype": "AC",
+      "bhk": "2 BHK",
+      "photo": "https://s7d2.scene7.com/is/image/ritzcarlton/pnrqz-king-50661983?$XlargeViewport100pct$",
+      "amount": "1500"
+    },
+    {
+      "id": "R02",
+      "country": "India",
+      "area": "Kottayam",
+      "roomtype": "NON AC",
+      "bhk": "3 BHK",
+      "photo": "https://www.hotelsrisaisadan.com/assets/img/room/room1.jpg",
+      "amount": "2200"
+    },
+    {
+      "id": "R03",
+      "country": "India",
+      "area": "Palakkad",
+      "roomtype": "AC",
+      "bhk": "1 BHK",
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/sitting-rooms-hilliard-locust-18-11-20-1578948041.jpg",
+      "amount": "1100"
+    },
+    {
+      "id": "R04",
+      "country": "India",
+      "area": "Kozhikode",
+      "roomtype": "AC",
+      "bhk": "3 BHK",
+      "photo": "https://content3.jdmagicbox.com/comp/hosur/a9/9999p4344.4344.211130203305.z7a9/catalogue/shriranjani-ac-and-non-ac-rooms-hosur-hotels-6tm4fzzzel.jpg",
+      "amount": "2100"
+    },
+    {
+      "id": "R05",
+      "country": "India",
+      "area": "Wayanad",
+      "roomtype": "AC",
+      "bhk": "2 BHK",
+      "photo": "https://www.thespruce.com/thmb/iMt63n8NGCojUETr6-T8oj-5-ns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/PAinteriors-7-cafe9c2bd6be4823b9345e591e4f367f.jpg",
+      "amount": "1400"
+    },
+    {
+      "id": "R06",
+      "country": "India",
+      "area": "Kollam",
+      "roomtype": "NON AC",
+      "bhk": "1 BHK",
+      "photo": "https://www.tgfdreamguesthouse.com/img/gallery/DLX-ROOM.jpg",
+      "amount": "1000"
+    },
+    {
+      "id": "R07",
+      "country": "India",
+      "area": "Trivandrum",
+      "roomtype": "NON AC",
+      "bhk": "3 BHK",
+      "photo": "https://5.imimg.com/data5/KO/BP/XZ/GLADMIN-25496103/6w6a0075-1-500x500.jpg",
+      "amount": "1800"
+    },
+    {
+      "id": "R08",
+      "country": "India",
+      "area": "Thrissur",
+      "roomtype": "AC",
+      "bhk": "2 BHK",
+      "photo": "https://suryahotel.org/wp-content/uploads/2020/09/Non-Ac.jpg",
+      "amount": "1600"
+    }
+  ]
+}
